@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Mashed Potatoes",
+    "notes": "Scratch or quick flakes",
+    "type": "STARCH"
+  },
+  {
+    "name": "Baked Potato",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Rice",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Fries",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Tater Tots",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Brussle Sprouts",
+    "notes": "",
+    "type": "VEGGIE"
+  },
+  {
+    "name": "Asparegus",
+    "notes": "",
+    "type": "VEGGIE"
+  },
+  {
+    "name": "Rice",
+    "notes": "",
+    "type": "ASIAN"
+  },
+  {
+    "name": "Noodles",
+    "notes": "",
+    "type": "ASIAN"
+  },
+  {
+    "name": "Texas Toast",
+    "notes": "",
+    "type": "ITALIAN"
+  },
+  {
+    "name": "Garlic Bread",
+    "notes": "",
+    "type": "ITALIAN"
+  },
+  {
+    "name": "Rolls",
+    "notes": "",
+    "type": "BREAD"
+  },
+  {
+    "name": "Cornbread",
+    "notes": "",
+    "type": "BREAD"
+  },
+  {
+    "name": "Refried Beans",
+    "notes": "",
+    "type": "MEXI"
+  },
+  {
+    "name": "Spanish Rice",
+    "notes": "",
+    "type": "MEXI"
+  },
+  {
+    "name": "Side Salad",
+    "notes": "",
+    "type": "VEGGIE"
+  },
+  {
+    "name": "Fruit Cocktail",
+    "notes": "",
+    "type": "FRUIT"
+  },
+  {
+    "name": "Baked Apples",
+    "notes": "",
+    "type": "FRUIT"
+  },
+  {
+    "name": "Broccoli",
+    "notes": "",
+    "type": "VEGGIE"
+  },
+  {
+    "name": "Couscous",
+    "notes": "",
+    "type": "STARCH"
+  }
+]

@@ -1,0 +1,9 @@
+#header {
+  background-color: #428bca;
+}
+
+#header h1 {
+  color: #ffffff;
+  font-family: sarif;
+  font-weight: lighter;
+}
