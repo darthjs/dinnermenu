@@ -1,5 +1,5 @@
-import rawmeals from "../db/meals.json";
-import rawsides from "../db/sides.json";
+import rawmeals from "../db/meals.json" with {type: "JSON"};
+import rawsides from "../db/sides.json" with {type: "JSON"};
 
 // {
 //   "name": "Mashed Potatoes",
