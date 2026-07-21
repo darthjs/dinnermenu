@@ -1,9 +1,318 @@
 [
   {
+    "name": "Bacon & Cream Supreme Spaghetti",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Bacon & Mushroom Risotto",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Baked Potato Soup",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "SOUP"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Beef Taco Salad",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "SALAD",
+      "MEXICAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Beefy Stuffed Bell Pepper Soup",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "SOUP"
+    ],
+    "sideTypes": [
+      "BREAD",
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "Black Pepper Chicken",
+    "notes": "",
+    "tags": [
+      "ASIAN"
+    ],
+    "sideTypes": [
+      "ASIAN"
+    ]
+  },
+  {
+    "name": "Burgers",
+    "notes": "Grill or Stove",
+    "tags": [
+      "GRILL"
+    ],
+    "sideTypes": [
+      "STARCH"
+    ]
+  },
+  {
+    "name": "Calzone",
+    "notes": "Pick fillings",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Cheeseburger Salad",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "SALAD",
+      "MEXICAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Cheesy Beef Tortilla Melts",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "MEXICAN"
+    ],
+    "sideTypes": [
+      "MEXI"
+    ]
+  },
+  {
+    "name": "Chef Salad",
+    "notes": "",
+    "tags": [
+      "HEALTHY",
+      "SALAD"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Chicken Biscuit Pot-Pie",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "CASSEROLE"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Chicken Kabobs",
+    "notes": "",
+    "tags": [
+      "GRILL",
+      "HEALTHY"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Chili",
+    "notes": "",
+    "tags": [
+      "SOUP"
+    ],
+    "sideTypes": [
+      "BREAD"
+    ]
+  },
+  {
     "name": "Cookbook",
     "notes": "Pick a new item from a cookbook",
     "tags": [
       "OTHER"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Creamy Dill Pork Filet",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "MEAT"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Creamy Lemon-Garlic Chicken Linguine",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Creamy Sausage and Tortelloni Soup",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "SOUP"
+    ],
+    "sideTypes": [
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "Crispy Chicken Milanese with Burrata",
+    "notes": "HelloFresh recipe card, also good with porkchop",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Double-Cheddar Broccoli Risotto",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Enchiladas",
+    "notes": "Beef or Chicken",
+    "tags": [
+      "MEXICAN"
+    ],
+    "sideTypes": [
+      "MEXI"
+    ]
+  },
+  {
+    "name": "Fish Sticks/Fillets",
+    "notes": "",
+    "tags": [
+      "SEAFOOD"
+    ],
+    "sideTypes": [
+      "STARCH"
+    ]
+  },
+  {
+    "name": "Flautas",
+    "notes": "Beef or Chicken, HelloFresh recipe card",
+    "tags": [
+      "MEXICAN"
+    ],
+    "sideTypes": [
+      "MEXI"
+    ]
+  },
+  {
+    "name": "French-Onion Smothered Pork Chops",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "MEAT"
+    ],
+    "sideTypes": [
+      "VEGGIE",
+      "STARCH"
+    ]
+  },
+  {
+    "name": "Garlic Butter Shrimp Scampi",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Garlicky Shrimp Couscous",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "SEAFOOD"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Lasagna",
+    "notes": "",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": [
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "Meatloaf",
+    "notes": "Grill or Oven",
+    "tags": [
+      "GRILL"
+    ],
+    "sideTypes": [
+      "STARCH",
+      "VEGGIE"
+    ]
+  },
+  {
+    "name": "Mongolian Beef",
+    "notes": "",
+    "tags": [
+      "ASIAN"
+    ],
+    "sideTypes": [
+      "ASIAN"
+    ]
+  },
+  {
+    "name": "Motzzarella Herb Chicken",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "MEAT"
+    ],
+    "sideTypes": [
+      "VEGGIE"
+    ]
+  },
+  {
+    "name": "Mushroom Pilaff",
+    "notes": "",
+    "tags": [
+      "CASSEROLE"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Nachos",
+    "notes": "Oven or Dutch",
+    "tags": [
+      "MEXICAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Orange Chicken",
+    "notes": "",
+    "tags": [
+      "ASIAN"
+    ],
+    "sideTypes": [
+      "ASIAN"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "notes": "Pick a new topping mix",
+    "tags": [
+      "ITALIAN"
     ],
     "sideTypes": []
   },
@@ -24,197 +333,48 @@
     "sideTypes": []
   },
   {
-    "name": "Pizza",
-    "notes": "Pick a new topping mix",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Calzone",
-    "notes": "Pick fillings",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Smoked Mac & Cheese",
-    "notes": "Grill or Oven",
-    "tags": [
-      "GRILL"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Mongolian Beef",
+    "name": "Pork Chops",
     "notes": "",
     "tags": [
-      "ASIAN"
+      "MEAT"
     ],
     "sideTypes": [
-      "ASIAN"
-    ]
-  },
-  {
-    "name": "Orange Chicken",
-    "notes": "",
-    "tags": [
-      "ASIAN"
-    ],
-    "sideTypes": [
-      "ASIAN"
-    ]
-  },
-  {
-    "name": "Sweet/Sour Chicken",
-    "notes": "",
-    "tags": [
-      "ASIAN"
-    ],
-    "sideTypes": [
-      "ASIAN"
-    ]
-  },
-  {
-    "name": "Black Pepper Chicken",
-    "notes": "",
-    "tags": [
-      "ASIAN"
-    ],
-    "sideTypes": [
-      "ASIAN"
-    ]
-  },
-  {
-    "name": "Lasagna",
-    "notes": "",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": [
-      "ITALIAN"
-    ]
-  },
-  {
-    "name": "Spaghetti",
-    "notes": "",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": [
-      "ITALIAN"
-    ]
-  },
-  {
-    "name": "Tortilini",
-    "notes": "",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": [
-      "ITALIAN"
-    ]
-  },
-  {
-    "name": "Ravioli",
-    "notes": "",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": [
-      "ITALIAN"
-    ]
-  },
-  {
-    "name": "Chef Salad",
-    "notes": "",
-    "tags": [
-      "HEALTHY",
-      "SALAD"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Smoked Shotgun Shells",
-    "notes": "",
-    "tags": [
-      "GRILL"
-    ],
-    "sideTypes": [
-      "VEGGIE"
-    ]
-  },
-  {
-    "name": "Meatloaf",
-    "notes": "Grill or Oven",
-    "tags": [
-      "GRILL"
-    ],
-    "sideTypes": [
-      "STARCH",
-      "VEGGIE"
-    ]
-  },
-  {
-    "name": "Burgers",
-    "notes": "Grill or Stove",
-    "tags": [
-      "GRILL"
-    ],
-    "sideTypes": [
+      "VEGGIE",
       "STARCH"
     ]
   },
   {
-    "name": "Sausage, Eggs and Rice",
-    "notes": "",
+    "name": "Pork Sausage & Pepper Stromboli",
+    "notes": "HelloFresh recipe card",
     "tags": [
-      "BREAKFAST"
+      "ITALIAN"
     ],
     "sideTypes": []
   },
   {
-    "name": "Waffles and Bacon",
-    "notes": "",
+    "name": "Pork Schnitzel",
+    "notes": "HelloFresh recipe card",
     "tags": [
-      "BREAKFAST"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Chicken Kabobs",
-    "notes": "",
-    "tags": [
-      "GRILL",
-      "HEALTHY"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Enchiladas",
-    "notes": "Beef or Chicken",
-    "tags": [
-      "MEXICAN"
+      "MEAT"
     ],
     "sideTypes": [
-      "MEXI"
+      "VEGGIE",
+      "STARCH"
     ]
   },
   {
-    "name": "Tacos",
-    "notes": "",
+    "name": "Pork Wonton Soup",
+    "notes": "HelloFresh recipe card",
     "tags": [
-      "MEXICAN"
+      "SOUP"
     ],
     "sideTypes": []
   },
   {
-    "name": "Nachos",
-    "notes": "Oven or Dutch",
+    "name": "Pub-Style Shepherds Pie",
+    "notes": "HelloFresh recipe card",
     "tags": [
-      "MEXICAN"
+      "CASSEROLE"
     ],
     "sideTypes": []
   },
@@ -229,30 +389,38 @@
     ]
   },
   {
+    "name": "Ravioli",
+    "notes": "",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": [
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "San Antonio Beef Bown",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "MEXICAN"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Sausage, Eggs and Rice",
+    "notes": "",
+    "tags": [
+      "BREAKFAST"
+    ],
+    "sideTypes": []
+  },
+  {
     "name": "Scotch Eggs",
     "notes": "",
     "tags": [
       "GRILL"
     ],
     "sideTypes": []
-  },
-  {
-    "name": "Tuna Casserole",
-    "notes": "",
-    "tags": [
-      "SEAFOOD"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Fish Sticks/Fillets",
-    "notes": "",
-    "tags": [
-      "SEAFOOD"
-    ],
-    "sideTypes": [
-      "STARCH"
-    ]
   },
   {
     "name": "Shrimp Boil",
@@ -263,33 +431,33 @@
     "sideTypes": []
   },
   {
-    "name": "Mushroom Pilaff",
-    "notes": "",
+    "name": "Smashed Gyoza Tacos",
+    "notes": "HelloFresh recipe card",
     "tags": [
-      "CASSEROLE"
+      "ASIAN"
     ],
     "sideTypes": []
   },
   {
-    "name": "Flautas",
-    "notes": "Beef or Chicken, HelloFresh recipe card",
+    "name": "Smoked Mac & Cheese",
+    "notes": "Grill or Oven",
     "tags": [
-      "MEXICAN"
+      "GRILL"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Smoked Shotgun Shells",
+    "notes": "",
+    "tags": [
+      "GRILL"
     ],
     "sideTypes": [
-      "MEXI"
+      "VEGGIE"
     ]
   },
   {
-    "name": "Chicken Biscuit Pot-Pie",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "CASSEROLE"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Bacon & Cream Supreme Spaghetti",
+    "name": "Smoky Chicken Penne",
     "notes": "HelloFresh recipe card",
     "tags": [
       "ITALIAN"
@@ -297,37 +465,33 @@
     "sideTypes": []
   },
   {
-    "name": "Creamy Lemon-Garlic Chicken Linguine",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Pub-Style Shepherds Pie",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "CASSEROLE"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Garlicky Shrimp Couscous",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SEAFOOD"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Chili",
+    "name": "Spaghetti",
     "notes": "",
     "tags": [
-      "SOUP"
+      "ITALIAN"
     ],
     "sideTypes": [
-      "BREAD"
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "Spinach Caprese Salad",
+    "notes": "HelloFresh recipe card",
+    "tags": [
+      "HEALTHY",
+      "SALAD"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Steak",
+    "notes": "Grill or Stove",
+    "tags": [
+      "MEAT"
+    ],
+    "sideTypes": [
+      "VEGGIE",
+      "STARCH"
     ]
   },
   {
@@ -342,99 +506,20 @@
     ]
   },
   {
-    "name": "Creamy Sausage and Tortelloni Soup",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SOUP"
-    ],
-    "sideTypes": [
-      "ITALIAN"
-    ]
-  },
-  {
-    "name": "Pork Schnitzel",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "MEAT"
-    ],
-    "sideTypes": [
-      "VEGGIE",
-      "STARCH"
-    ]
-  },
-  {
-    "name": "Pork Chops",
+    "name": "Sweet/Sour Chicken",
     "notes": "",
     "tags": [
-      "MEAT"
+      "ASIAN"
     ],
     "sideTypes": [
-      "VEGGIE",
-      "STARCH"
+      "ASIAN"
     ]
   },
   {
-    "name": "Steak",
-    "notes": "Grill or Stove",
+    "name": "Tacos",
+    "notes": "",
     "tags": [
-      "MEAT"
-    ],
-    "sideTypes": [
-      "VEGGIE",
-      "STARCH"
-    ]
-  },
-  {
-    "name": "Spinach Caprese Salad",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "HEALTHY",
-      "SALAD"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Beef Taco Salad",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SALAD",
       "MEXICAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Cheeseburger Salad",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SALAD",
-      "MEXICAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Beefy Stuffed Bell Pepper Soup",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SOUP"
-    ],
-    "sideTypes": [
-      "BREAD",
-      "ITALIAN"
-    ]
-  },
-  {
-    "name": "Pork Wonton Soup",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SOUP"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Baked Potato Soup",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "SOUP"
     ],
     "sideTypes": []
   },
@@ -447,114 +532,137 @@
     "sideTypes": []
   },
   {
-    "name": "Smoky Chicken Penne",
-    "notes": "HelloFresh recipe card",
+    "name": "Tortellini",
+    "notes": "",
     "tags": [
       "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Garlic Butter Shrimp Scampi",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Eggplant Parmesan",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Double-Cheddar Broccoli Risotto",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Bacon & Mushroom Risotto",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Crispy Chicken Milanese with Burrata",
-    "notes": "HelloFresh recipe card; also good with porkchop",
-    "tags": [
-      "ITALIAN"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "Creamy Dill Pork Filet",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "MEAT"
-    ],
-    "sideTypes": []
-  },
-  {
-    "name": "French-Onion Smothered Pork Chops",
-    "notes": "HelloFresh recipe card",
-    "tags": [
-      "MEAT"
     ],
     "sideTypes": [
-      "VEGGIE",
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "Tuna Casserole",
+    "notes": "",
+    "tags": [
+      "SEAFOOD"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Waffles and Bacon",
+    "notes": "",
+    "tags": [
+      "BREAKFAST"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Crescent Dogs",
+    "notes": "",
+    "tags": [
+      "EASY"
+    ],
+    "sideTypes": [
       "STARCH"
     ]
   },
   {
-    "name": "Motzzarella Herb Chicken",
-    "notes": "HelloFresh recipe card",
+    "name": "Chicken Strips",
+    "notes": "",
     "tags": [
-      "MEAT"
+      "EASY"
     ],
     "sideTypes": [
-      "VEGGIE"
+      "STARCH"
     ]
   },
   {
-    "name": "Pork Sausage & Pepper Stromboli",
-    "notes": "HelloFresh recipe card",
+    "name": "Pancakes and Sausage",
+    "notes": "",
+    "tags": [
+      "BREAKFAST"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Goat Cheese, Cranberries and Crackers",
+    "notes": "",
+    "tags": [
+      "EASY",
+      "HEALTHY"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Fondue",
+    "notes": "with Bread, Apples, Olives",
     "tags": [
       "ITALIAN"
     ],
     "sideTypes": []
   },
   {
-    "name": "San Antonio Beef Bown",
-    "notes": "HelloFresh recipe card",
+    "name": "Grilled Cheese and Tomato Soup",
+    "notes": "",
     "tags": [
-      "MEXICAN"
+      "EASY"
     ],
     "sideTypes": []
   },
   {
-    "name": "Smashed Gyoza Tacos",
-    "notes": "HelloFresh recipe card",
+    "name": "Mac and Cheese and Hot Dogs",
+    "notes": "",
     "tags": [
-      "ASIAN"
+      "EASY"
     ],
     "sideTypes": []
   },
   {
-    "name": "Cheesy Beef Tortilla Melts",
-    "notes": "HelloFresh recipe card",
+    "name": "Tamales",
+    "notes": "",
     "tags": [
       "MEXICAN"
     ],
     "sideTypes": [
       "MEXI"
+    ]
+  },
+  {
+    "name": "Chicken Fettuccine Alfredo",
+    "notes": "",
+    "tags": [
+      "ITALIAN"
+    ],
+    "sideTypes": [
+      "ITALIAN"
+    ]
+  },
+  {
+    "name": "Mexican Lasagna",
+    "notes": "",
+    "tags": [
+      "MEXICAN",
+      "CASSEROLE"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "Tater Tot Casserole ",
+    "notes": "",
+    "tags": [
+      "CASSEROLE"
+    ],
+    "sideTypes": []
+  },
+  {
+    "name": "BLT Sandwiches",
+    "notes": "",
+    "tags": [
+      "HEALTHY"
+    ],
+    "sideTypes": [
+      "FRUIT"
     ]
   }
 ]

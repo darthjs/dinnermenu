@@ -1,58 +1,18 @@
 [
   {
-    "name": "Mashed Potatoes",
-    "notes": "Scratch or quick flakes",
-    "type": "STARCH"
-  },
-  {
-    "name": "Baked Potato",
-    "notes": "",
-    "type": "STARCH"
-  },
-  {
-    "name": "Rice",
-    "notes": "",
-    "type": "STARCH"
-  },
-  {
-    "name": "Fries",
-    "notes": "",
-    "type": "STARCH"
-  },
-  {
-    "name": "Tater Tots",
-    "notes": "",
-    "type": "STARCH"
-  },
-  {
-    "name": "Brussle Sprouts",
-    "notes": "",
-    "type": "VEGGIE"
-  },
-  {
-    "name": "Asparegus",
-    "notes": "",
-    "type": "VEGGIE"
-  },
-  {
-    "name": "Rice",
-    "notes": "",
-    "type": "ASIAN"
-  },
-  {
     "name": "Noodles",
     "notes": "",
     "type": "ASIAN"
   },
   {
-    "name": "Texas Toast",
+    "name": "Rice",
     "notes": "",
-    "type": "ITALIAN"
+    "type": "ASIAN"
   },
   {
-    "name": "Garlic Bread",
+    "name": "Cornbread",
     "notes": "",
-    "type": "ITALIAN"
+    "type": "BREAD"
   },
   {
     "name": "Rolls",
@@ -60,9 +20,24 @@
     "type": "BREAD"
   },
   {
-    "name": "Cornbread",
+    "name": "Baked Apples",
     "notes": "",
-    "type": "BREAD"
+    "type": "FRUIT"
+  },
+  {
+    "name": "Fruit Cocktail",
+    "notes": "",
+    "type": "FRUIT"
+  },
+  {
+    "name": "Garlic Bread",
+    "notes": "",
+    "type": "ITALIAN"
+  },
+  {
+    "name": "Texas Toast",
+    "notes": "",
+    "type": "ITALIAN"
   },
   {
     "name": "Refried Beans",
@@ -75,19 +50,39 @@
     "type": "MEXI"
   },
   {
-    "name": "Side Salad",
+    "name": "Baked Potato",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Couscous",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Fries",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Mashed Potatoes",
+    "notes": "Scratch or quick flakes",
+    "type": "STARCH"
+  },
+  {
+    "name": "Rice",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Tater Tots",
+    "notes": "",
+    "type": "STARCH"
+  },
+  {
+    "name": "Asparegus",
     "notes": "",
     "type": "VEGGIE"
-  },
-  {
-    "name": "Fruit Cocktail",
-    "notes": "",
-    "type": "FRUIT"
-  },
-  {
-    "name": "Baked Apples",
-    "notes": "",
-    "type": "FRUIT"
   },
   {
     "name": "Broccoli",
@@ -95,8 +90,13 @@
     "type": "VEGGIE"
   },
   {
-    "name": "Couscous",
+    "name": "Brussle Sprouts",
     "notes": "",
-    "type": "STARCH"
+    "type": "VEGGIE"
+  },
+  {
+    "name": "Side Salad",
+    "notes": "",
+    "type": "VEGGIE"
   }
 ]

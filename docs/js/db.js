@@ -20,7 +20,9 @@ import rawsides from "../db/sides.json" with {type: "json"};
 const sides = {};
 const sideTypes = [];
 
+let sidx = 0;
 rawsides.forEach((side) => {
+  side.id = sidx++;
   const key = side.type;
   if (sideTypes.indexOf(key) == -1) {
     sideTypes.push(key);
